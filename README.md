@@ -17,8 +17,8 @@ Este repositório contém testes automatizados end-to-end desenvolvidos com [Cyp
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/augustocaio95/adopet-cypress-tests.git
+  
    ```
 
 2. Instale as dependências:
